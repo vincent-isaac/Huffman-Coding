@@ -1,4 +1,6 @@
-# Huffman-Coding
+### EX NO : 12
+### DATE  : 18.06.2022
+# <p align="center">Huffman-Coding</p>
 
 ## Aim
 To implement Huffman coding to compress the data using Python.
@@ -23,16 +25,20 @@ Calculate frequency of occurrence.
 ### Step5:
 Print the characters and its huffmancode.
 
-## Program:
-
-*/ Developed by: Vincent isaac jeyraj J
 <br>
-Register Number: 212220230060 /*
+<br>
+<br>
+<br>
+<br>
+<br>
 
-
+## Program:
 ``` Python
+# Developed by: Vincent isaac jeyraj J
+# Register Number: 212220230060 
+
 # Get the input String
-string = 'from robomaster import robot'
+string = 'vincent isaac'
 class NodeTree(object):
     def __init__(self, left=None, right=None): 
         self.left = left
@@ -84,7 +90,8 @@ for (char, frequency) in freq:
 ## Output:
 
 ### Print the characters and its huffmancode
-![Capture 72](https://user-images.githubusercontent.com/75234588/174421539-ca0b3961-9354-44b2-a944-82198d1f5796.PNG)
+![Capture89](https://user-images.githubusercontent.com/75234588/175566431-426c168d-5039-466a-ab53-f3b64ad78a9b.PNG)
+
 
 
 
